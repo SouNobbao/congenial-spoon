@@ -1,0 +1,12 @@
+{
+  "Online": {
+    "BlobSignatureRenewalMinutes": 5.0,
+    "BlobSignatureRenewalCooldownSeconds": 30.0,
+    "GPSTokenRenewalMinutes": 5.0,
+    "GPSTokenRenewalCooldownSeconds": 30.0,
+    "DefaultHttpTimeout": 30.0,
+    "WebSocketsRoute": "authentication/ws",
+    "DefaultWebSocketTimeout": 30.0,
+    "WebSocketsEnabled": false
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "Challenges": [
+    {
+      "Definition": {
+        "Id": "493f8eca-38ec-4a07-8031-5a4d70982c4a",
+        "Name": "CLOVER_MIDGE_COMPLETETIER1_TITLE",
+        "Description": "CLOVER_MIDGE_COMPLETETIER1_DESC"
+      },
+      "State": {
+        "Id": "493f8eca-38ec-4a07-8031-5a4d70982c4a",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "493f8eca-38ec-4a07-8031-5a4d70982c4a",
+        "Tags": [
+          "clover_midge",
+          "easy_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_completetier1.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_completetier1.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "2b9cbb21-858a-414a-9bec-c474b6e5f402",
+        "Name": "CLOVER_MIDGE_COMPLETETIER2_TITLE",
+        "Description": "CLOVER_MIDGE_COMPLETETIER2_DESC"
+      },
+      "State": {
+        "Id": "2b9cbb21-858a-414a-9bec-c474b6e5f402",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "2b9cbb21-858a-414a-9bec-c474b6e5f402",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_completetier2.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_completetier2.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "e34d1f73-c528-4bd3-abaf-db5a8e1c39a9",
+        "Name": "CLOVER_MIDGE_COMPLETETIER3_TITLE",
+        "Description": "CLOVER_MIDGE_COMPLETETIER3_DESC"
+      },
+      "State": {
+        "Id": "e34d1f73-c528-4bd3-abaf-db5a8e1c39a9",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "e34d1f73-c528-4bd3-abaf-db5a8e1c39a9",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_completetier3.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_completetier3.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "19e90a5e-1fee-4239-8d5a-0668d9b0c5d5",
+        "Name": "CLOVER_MIDGE_COMPLETEALL_TITLE",
+        "Description": "CLOVER_MIDGE_COMPLETEALL_DESC"
+      },
+      "State": {
+        "Id": "19e90a5e-1fee-4239-8d5a-0668d9b0c5d5",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 3
+      },
+      "KntDefinition": {
+        "Id": "19e90a5e-1fee-4239-8d5a-0668d9b0c5d5",
+        "Tags": [
+          "clover_midge",
+          "hard_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_completeescalation.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_completeescalation.jpg",
+        "Rewards": {
+          "Xp": 1000,
+          "Intel": 2000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "222584a7-4d50-41a0-99bc-caefa0b5901d",
+        "Name": "CLOVER_MIDGE_FOUREYES_TITLE",
+        "Description": "CLOVER_MIDGE_FOUREYES_DESC"
+      },
+      "State": {
+        "Id": "222584a7-4d50-41a0-99bc-caefa0b5901d",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "222584a7-4d50-41a0-99bc-caefa0b5901d",
+        "Tags": [
+          "clover_midge",
+          "hard_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_twoefficient.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_twoefficient.jpg",
+        "Rewards": {
+          "Xp": 1000,
+          "Intel": 2000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "08ca8848-2db0-4ee0-bd58-8bbf85f694f8",
+        "Name": "CLOVER_MIDGE_EXPOSIONKILL_TITLE",
+        "Description": "CLOVER_MIDGE_EXPOSIONKILL_DESC"
+      },
+      "State": {
+        "Id": "08ca8848-2db0-4ee0-bd58-8bbf85f694f8",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "08ca8848-2db0-4ee0-bd58-8bbf85f694f8",
+        "Tags": [
+          "clover_midge",
+          "easy_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_explosiveelimination.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_explosiveelimination.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "0f03c7c4-00fd-4fa2-b652-616d5c782912",
+        "Name": "CLOVER_MIDGE_MINDTHEGAP_TITLE",
+        "Description": "CLOVER_MIDGE_MINDTHEGAP_DESC"
+      },
+      "State": {
+        "Id": "0f03c7c4-00fd-4fa2-b652-616d5c782912",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "0f03c7c4-00fd-4fa2-b652-616d5c782912",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_mindthegap.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_mindthegap.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "aba57cbe-d153-4869-b664-7f29111eb040",
+        "Name": "CLOVER_MIDGE_NOGADGETS_TITLE",
+        "Description": "CLOVER_MIDGE_NOGADGETS_DESC"
+      },
+      "State": {
+        "Id": "aba57cbe-d153-4869-b664-7f29111eb040",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "aba57cbe-d153-4869-b664-7f29111eb040",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_nogadgets.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_nogadgets.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "f06e78e7-b354-4b09-91d4-918d3bfca218",
+        "Name": "CLOVER_MIDGE_FASTLEARNER_TITLE",
+        "Description": "CLOVER_MIDGE_FASTLEARNER_DESC"
+      },
+      "State": {
+        "Id": "f06e78e7-b354-4b09-91d4-918d3bfca218",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "f06e78e7-b354-4b09-91d4-918d3bfca218",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_fastlearner.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_fastlearner.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "781df73c-269d-4c2e-9a21-2def556a3f23",
+        "Name": "CLOVER_MIDGE_SLOWLEARNER_TITLE",
+        "Description": "CLOVER_MIDGE_SLOWLEARNER_DESC"
+      },
+      "State": {
+        "Id": "781df73c-269d-4c2e-9a21-2def556a3f23",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "781df73c-269d-4c2e-9a21-2def556a3f23",
+        "Tags": [
+          "clover_midge",
+          "medium_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_slowlearner.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_slowlearner.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "697f052d-3019-4180-97cc-00a1ec74b6cb",
+        "Name": "CLOVER_MIDGE_TIER3NOSHOTS_TITLE",
+        "Description": "CLOVER_MIDGE_TIER3NOSHOTS_DESC"
+      },
+      "State": {
+        "Id": "697f052d-3019-4180-97cc-00a1ec74b6cb",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "697f052d-3019-4180-97cc-00a1ec74b6cb",
+        "Tags": [
+          "clover_midge",
+          "hard_xp_intel"
+        ],
+        "Image": "images/tacticalsims/escalations/clover/s_clover_midge_challenge_hoplophobia.jpg",
+        "HighResImage": "images/tacticalsims/escalations/clover/clover_midge_challenge_hoplophobia.jpg",
+        "Rewards": {
+          "Xp": 1000,
+          "Intel": 2000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "188d5660-8f55-44d3-9d1f-67dba843954d",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_02_TITLE",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_02_DESC"
+      },
+      "State": {
+        "Id": "188d5660-8f55-44d3-9d1f-67dba843954d",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "188d5660-8f55-44d3-9d1f-67dba843954d",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_full_pockets.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_full_pockets.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "d7193b83-908e-499d-8c79-8f7a40ee569b",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_06_TITLE",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_06_DESC"
+      },
+      "State": {
+        "Id": "d7193b83-908e-499d-8c79-8f7a40ee569b",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "d7193b83-908e-499d-8c79-8f7a40ee569b",
+        "Tags": [
+          "online_global",
+          "easy_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_the_driver.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_the_driver.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "580a4ee3-1887-46bc-a58c-c72a30ee5cc1",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_HUB_TUTORIAL_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_HUB_TUTORIAL_DESC"
+      },
+      "State": {
+        "Id": "580a4ee3-1887-46bc-a58c-c72a30ee5cc1",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "580a4ee3-1887-46bc-a58c-c72a30ee5cc1",
+        "Tags": [
+          "online_global",
+          "easy_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_hub_tutorial.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_hub_tutorial.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "5eb0db7d-52a3-4af6-80c4-6f183e074fd7",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_SHOTGUN_SPECIALIST_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_SHOTGUN_SPECIALIST_DESC"
+      },
+      "State": {
+        "Id": "5eb0db7d-52a3-4af6-80c4-6f183e074fd7",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "5eb0db7d-52a3-4af6-80c4-6f183e074fd7",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_shotgun_specialist.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_shotgun_specialist.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "ff982038-ded0-45dd-b258-a0bfb29f2e5e",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_PISTOL_SPECIALIST_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_PISTOL_SPECIALIST_DESC"
+      },
+      "State": {
+        "Id": "ff982038-ded0-45dd-b258-a0bfb29f2e5e",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "ff982038-ded0-45dd-b258-a0bfb29f2e5e",
+        "Tags": [
+          "online_global",
+          "easy_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_pistol_specialist.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_pistol_specialist.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "b18dbc5b-e715-4f37-abba-e0b381c17194",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_SKYFALL_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_SKYFALL_DESC"
+      },
+      "State": {
+        "Id": "b18dbc5b-e715-4f37-abba-e0b381c17194",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "b18dbc5b-e715-4f37-abba-e0b381c17194",
+        "Tags": [
+          "online_global",
+          "hard_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_skyfall.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_skyfall.jpg",
+        "Rewards": {
+          "Xp": 1000,
+          "Intel": 2000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "79332e68-8ed1-4621-b50a-6b1e15281957",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_THE_CHEMIST_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_THE_CHEMIST_DESC"
+      },
+      "State": {
+        "Id": "79332e68-8ed1-4621-b50a-6b1e15281957",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "79332e68-8ed1-4621-b50a-6b1e15281957",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_the_chemist.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_the_chemist.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "44c55a35-15c5-4140-a010-052d50d1f028",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_THE_TECHNOLOGIST_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_THE_TECHNOLOGIST_DESC"
+      },
+      "State": {
+        "Id": "44c55a35-15c5-4140-a010-052d50d1f028",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "44c55a35-15c5-4140-a010-052d50d1f028",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_the_technologist.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_the_technologist.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "b5bd0cbb-e51a-4a68-a7e6-a96a5bdda32c",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_ALL_IN_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_ALL_IN_DESC"
+      },
+      "State": {
+        "Id": "b5bd0cbb-e51a-4a68-a7e6-a96a5bdda32c",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "b5bd0cbb-e51a-4a68-a7e6-a96a5bdda32c",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_all_in.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_all_in.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "363a4f6f-6a6f-4089-9711-c0e4fa3b724a",
+        "Name": "ONLINE_GLOBAL_CHALLENGE_WIDE_HOLSTERS_NAME",
+        "Description": "ONLINE_GLOBAL_CHALLENGE_WIDE_HOLSTERS_DESC"
+      },
+      "State": {
+        "Id": "363a4f6f-6a6f-4089-9711-c0e4fa3b724a",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "363a4f6f-6a6f-4089-9711-c0e4fa3b724a",
+        "Tags": [
+          "online_global",
+          "easy_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_global_wideholsters.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_global_wideholsters.jpg",
+        "Rewards": {
+          "Xp": 500,
+          "Intel": 1000,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    },
+    {
+      "Definition": {
+        "Id": "adf01d2f-dcc7-43b4-995c-3fae75d4b8a4",
+        "Name": "ROSE_FIREFLY_CHALLENGE_08_TITLE",
+        "Description": "ROSE_FIREFLY_CHALLENGE_08_DESC"
+      },
+      "State": {
+        "Id": "adf01d2f-dcc7-43b4-995c-3fae75d4b8a4",
+        "CompletionState": 1,
+        "ProgressCurrent": 0,
+        "ProgressMax": 1
+      },
+      "KntDefinition": {
+        "Id": "adf01d2f-dcc7-43b4-995c-3fae75d4b8a4",
+        "Tags": [
+          "online_global",
+          "medium_xp_intel"
+        ],
+        "Image": "images/knt/challenges/online/s_online_challenge_itwasntme.jpg",
+        "HighResImage": "images/knt/challenges/online/online_challenge_itwasntme.jpg",
+        "Rewards": {
+          "Xp": 750,
+          "Intel": 1400,
+          "Unlockables": []
+        },
+        "IsSpoiler": false,
+        "SpoilerRequiredCheckpoint": ""
+      },
+      "KntState": {
+        "NewlyCompleted": false
+      }
+    }
+  ],
+  "MissionId": "fbf521ae-4d12-47ab-af54-e3426f6e17bf"
+}
