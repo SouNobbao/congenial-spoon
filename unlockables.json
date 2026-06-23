@@ -1,6 +1,32 @@
 [
   {
     "CanBuy": false,
+    "Category": "gadget_dart",
+    "Comment": "",
+    "Description": "UI_UNLOCKABLE_GADGET_SKIN_INTEL_SHOP_SPOTLIGHT_PHONE_DESC",
+    "FeaturedImage": "",
+    "GrantedItems": [],
+    "HighResImage": "",
+    "Image": "images/TacticalSims/unlockables/gadget_skin_intel_shop_tictoc_phone.png",
+    "IntelShop": false,
+    "IsFeatured": false,
+    "IsNew": false,
+    "LevelOk": true,
+    "PriceCurrency": "Intel",
+    "PriceOk": true,
+    "PriceValue": 0,
+    "RequiredCheckpoint": "",
+    "RequiredLevel": 0,
+    "Title": "UI_UNLOCKABLE_GADGET_SKIN_INTEL_SHOP_SPOTLIGHT_PHONE_NAME",
+    "Type": "gadget_skin",
+    "UnlockableState": {
+      "Id": "d2988eff-22ea-48d7-a76f-2704f5624102",
+      "State": 1
+    },
+    "Unlocks": []
+  },
+  {
+    "CanBuy": false,
     "Category": "pistol",
     "Comment": "",
     "Description": "UI_UNLOCKABLE_WEAPON_SKIN_LEGACY_GOLDEN_GUN_DESC",
