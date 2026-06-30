@@ -1,0 +1,694 @@
+{
+ "links": {
+  "f1f12d80-e7e3-4bb6-8dc4-f1d100b2b024": {
+   "name": "Pacifist: \"Uninvited\"",
+   "children": [
+    {
+     "uuid": "ce7a8f8e-ef32-4e16-bef7-6d27d60cb810",
+     "name": "An uneventful Night",
+     "desc": "Get through the CCTV room without knocking down any guards."
+    },
+    {
+     "uuid": "744e155d-d809-4d1b-8c55-b12eb442df76",
+     "name": "Nature Lover",
+     "desc": "Get through the garden without killing anyone."
+    },
+    {
+     "uuid": "bbaefe75-a101-4d24-9630-0d1e03a42799",
+     "name": "Patient Worker",
+     "desc": "Exit the workshop without defeating any hostile."
+    }
+   ]
+  },
+  "e892900c-094b-4bde-9c5e-445ebcbdadb7": {
+   "name": "Ghost: \"Uninvited\"",
+   "children": [
+    {
+     "uuid": "f7827775-545a-43af-bddc-22d9c7b89e5e",
+     "name": "Ghost",
+     "desc": "Take no shots from the sniper."
+    },
+    {
+     "uuid": "62224890-6040-4c9c-bc7f-9fbbf844638a",
+     "name": "Top Notch Security",
+     "desc": "Get to the CCTV room without getting spotted."
+    },
+    {
+     "uuid": "3af91398-47c2-43f2-aecb-af2cc8867e2a",
+     "name": "Fast Track",
+     "desc": "Get through the Garden without getting being compromised."
+    }
+   ]
+  },
+  "69650d45-e17c-4901-8e5d-027a991f6e25": {
+   "name": "Assault: \"Uninvited\"",
+   "children": [
+    {
+     "uuid": "16dd3da3-4e9c-4791-9afa-338dc8eaa7ba",
+     "name": "Gardening",
+     "desc": "Eliminate 15 guards in the Garden"
+    },
+    {
+     "uuid": "6241bbf5-1d8f-4c55-a82f-f2e0ebd87975",
+     "name": "All Clear",
+     "desc": "Eliminate 10 guards in the Security Room"
+    },
+    {
+     "uuid": "bfa30451-943a-416e-ac64-63a25b8e9993",
+     "name": "Dominos",
+     "desc": "Eliminate 3 guards with Scaffoldings in the Garden"
+    },
+    {
+     "uuid": "79355664-d234-4eb8-9c05-9444b07909f7",
+     "name": "An Artful Beating",
+     "desc": "Eliminate 3 guards with explosives' in the workshop"
+    }
+   ]
+  },
+  "90d5128b-6b83-4651-8de7-fcd6bc9ceaa5": {
+   "name": "The Garden Party Mastery",
+   "children": [
+    {
+     "uuid": "112a663b-cc3e-43e6-bef2-c22fa2231f00",
+     "name": "Complete The Garden Party operation",
+     "desc": "Complete The Garden Party operation"
+    },
+    {
+     "uuid": "222115f9-b633-4c7b-a998-3976fc318d6d",
+     "name": "Never spotted",
+     "desc": "Complete The Garden Party without getting spotted"
+    },
+    {
+     "uuid": "d784a336-1a56-4e80-ba24-edc371dc7688",
+     "name": "Pacifist",
+     "desc": "Complete \"The garden party\" operation without discharging a firearm"
+    },
+    {
+     "uuid": "c72f9c5b-51a4-4585-bf14-1de615adf542",
+     "name": "Watch This",
+     "desc": "Complete this mission with only the Q Watch assigned"
+    },
+    {
+     "uuid": "3031aeb0-62eb-4854-8d9f-0ca5c45318aa",
+     "name": "Secret Data",
+     "desc": "Get the data from the laptop in the garden area"
+    },
+    {
+     "uuid": "880cff86-749c-404d-9e2b-07ff13b53e7b",
+     "name": "No gadgets: \"The garden party\"",
+     "desc": "Complete \"The garden party\" with no gadgets equipped"
+    },
+    {
+     "uuid": "5066abc1-44a1-470d-aea6-e5673c2465fe",
+     "name": "Work hazard",
+     "desc": "Crush 5 enemies with an object"
+    }
+   ]
+  },
+  "a1425135-5da7-46d8-aeea-422bf145f785": {
+   "name": "Pacifist: All the time in the world",
+   "children": [
+    {
+     "uuid": "07270228-9778-1192-5422-535253508057",
+     "name": "Uninterrupted Service",
+     "desc": "Get through the laundry without harming any of the staff."
+    },
+    {
+     "uuid": "61716781-4682-8958-3949-733822821869",
+     "name": "Peace Studies",
+     "desc": "Get through the study room without knocking down any hostiles."
+    }
+   ]
+  },
+  "1f9802bd-17d9-46b9-99db-52c8371b447d": {
+   "name": "Ghost: All the time in the world",
+   "children": [
+    {
+     "uuid": "12a6129e-de3a-4c96-8754-6573b5f8bb0b",
+     "name": "Squeaky clean",
+     "desc": "Get through the laundry without getting spotted."
+    },
+    {
+     "uuid": "56209843-5777-43de-9a48-8bb186f189de",
+     "name": "Silent study",
+     "desc": "Get through the study without getting noticed."
+    }
+   ]
+  },
+  "2d12bae3-40dd-4dd1-8231-1060a2445f7b": {
+   "name": "Assault: All the time in the world",
+   "children": [
+    {
+     "uuid": "4932c42c-800a-40af-a73a-8af84651fd4c",
+     "name": "Getting dirty",
+     "desc": "Defeat 5 laundry workers in the Laundry area."
+    },
+    {
+     "uuid": "21928d0d-6eca-4c08-8470-dfefa58ef102",
+     "name": "Art of war",
+     "desc": "Defeat 5 of the private security in the library."
+    }
+   ]
+  },
+  "004f1a40-00e3-483c-ac6e-e54f063cf6ed": {
+   "name": "Pacifist: The past never dies",
+   "children": [
+    {
+     "uuid": "e052d6b6-f45a-4ccc-a009-19aaea5b519d",
+     "name": "Gentle steel",
+     "desc": "Reach the Bitcoin drive antenna without knocking out or eliminating enemies"
+    },
+    {
+     "uuid": "f59a08ea-f22e-444b-9f81-90141a624d03",
+     "name": "Quiet frequency",
+     "desc": "Reach the crane without knocking out or eliminating enemies"
+    },
+    {
+     "uuid": "37c291b6-8e66-4933-a161-6a3149d9a032",
+     "name": "Silent line",
+     "desc": "Without eliminating or knocking out anyone inside the Scorpius acquire the burner phone"
+    }
+   ]
+  },
+  "46dfbeb7-5afe-4652-840d-331a724d3d6a": {
+   "name": "Ghost: The past never dies",
+   "children": [
+    {
+     "uuid": "77c2c365-d685-429e-81ad-a0384ebc50d3",
+     "name": "Laser show",
+     "desc": "Reveal lasers in every possible way."
+    },
+    {
+     "uuid": "d7822076-4dd3-4d06-86bb-c324d53d940b",
+     "name": "Silence is violence",
+     "desc": "Perform 10 silent takedowns in Mauritania."
+    },
+    {
+     "uuid": "578cc205-c305-42f4-b199-38d6dd24befe",
+     "name": "Making an impact",
+     "desc": "Kill 3 enemies with one single explosion."
+    }
+   ]
+  },
+  "b18ba21a-8a52-4aa6-9dfb-2383e9ad4189": {
+   "name": "Assault: The past never dies",
+   "children": [
+    {
+     "uuid": "04b3ae63-aae6-4b2c-831b-62e1fc061a73",
+     "name": "Fall guy",
+     "desc": "Defeat Omar by throwing him over the railing."
+    },
+    {
+     "uuid": "44df5480-7095-4ddf-8fc2-0833bbed184b",
+     "name": "Catch!",
+     "desc": "Hit every enemy with a throwable object."
+    },
+    {
+     "uuid": "54209059-d2e1-4e25-9c96-5b072c01ad44",
+     "name": "Make them count",
+     "desc": "Eliminate 6 enemies with one magazine during the last stand."
+    }
+   ]
+  },
+  "131c2073-b0b7-4938-9176-c548bb989f1f": {
+   "name": "Pacifist: \"A new home\"",
+   "children": [
+    {
+     "uuid": "b4e15807-069c-4583-8257-185ce1d8b505",
+     "name": "Something to prove",
+     "desc": "Complete Into the Deep End without knocking down any soldier."
+    },
+    {
+     "uuid": "54737f64-89ba-467a-8144-520df8b7eb42",
+     "name": "White flag",
+     "desc": "Reach the flag without taking down any soldier in the compound."
+    }
+   ]
+  },
+  "2e155658-25c4-41bc-a0e0-7f900e453726": {
+   "name": "Ghost: \"A new home\"",
+   "children": [
+    {
+     "uuid": "29be66d8-23fd-4b70-aad9-4cb4d757b4d0",
+     "name": "Cressida's way",
+     "desc": "Complete a full stealth run in Into the Deep end."
+    },
+    {
+     "uuid": "4d67fc99-9f70-41e6-b3bf-0ad79a0f4f1d",
+     "name": "Always do the unexpected",
+     "desc": "Get to the flag without alerting anyone in the compound."
+    }
+   ]
+  },
+  "63c6a197-7f9b-40d5-82cc-398f76e753da": {
+   "name": "Assault: \"A new home\"",
+   "children": [
+    {
+     "uuid": "72183de9-ff68-4dc7-9021-57273ad301b0",
+     "name": "Monroe's way",
+     "desc": "Take down every enemy in \"Into the Deep end\""
+    },
+    {
+     "uuid": "8726e0ac-22c9-41ad-bf15-dd22525f38aa",
+     "name": "Party Crasher",
+     "desc": "Take down all the enemies in the compund before reaching the flag."
+    }
+   ]
+  },
+  "b98b0bd9-4432-4659-91a9-7199bfb3c33f": {
+   "name": "Pacifist: Knightfall",
+   "children": [
+    {
+     "uuid": "30e3be60-edde-4350-af76-80832d5ad5de",
+     "name": "Discretion advised",
+     "desc": "Get through the executive 2nd floor meeting room area without alerting or taking out anyone."
+    },
+    {
+     "uuid": "46eacc90-7d0d-478f-a064-b2a8f886ffdf",
+     "name": "IT specialist",
+     "desc": "Activate all the servers for Greenway without alerting anyone."
+    }
+   ]
+  },
+  "603a8ec2-d346-4414-8f99-1989fe32608c": {
+   "name": "Ghost: Knightfall",
+   "children": [
+    {
+     "uuid": "a547ba6e-f572-4ef8-875e-6c1c4e5b27b4",
+     "name": "Hand of god",
+     "desc": "Take down everyone in the executive 2nd floor meeting room area without getting spotted."
+    },
+    {
+     "uuid": "f04cd8ba-2adb-4dcb-bb24-bbafe68525dd",
+     "name": "Underdressed",
+     "desc": "Get up to the Data Center without getting spotted."
+    }
+   ]
+  },
+  "1c3d5a1d-7092-4c46-8c4d-2438d8942a66": {
+   "name": "Assault: Knightfall",
+   "children": [
+    {
+     "uuid": "c547a182-d026-4d35-891a-6c066cacde3f",
+     "name": "Server crash",
+     "desc": "Fight ten security guards in the Data Center."
+    },
+    {
+     "uuid": "6c37d1a0-c476-479d-bc42-292057133220",
+     "name": "All the time in the world",
+     "desc": "Take out all the guards during the run to the Perch."
+    },
+    {
+     "uuid": "a920a72f-3176-4fbd-9bfd-6b505f4c9faf",
+     "name": "Makeover",
+     "desc": "Strike four security guards against meeting room windows."
+    }
+   ]
+  },
+  "b2f7942f-e803-4729-a9fb-a618bbc68b3b": {
+   "name": "Pacifist: Time to die",
+   "children": [
+    {
+     "uuid": "7957ed55-7286-4787-bc31-65aeda4dc005",
+     "name": "Spectre Protocol",
+     "desc": "Reach Lorca, held hostage, without getting detected"
+    },
+    {
+     "uuid": "e09f2b28-16c4-4a5d-82dc-68977142dee5",
+     "name": "Unlicenced to kill",
+     "desc": "Save Ellis without killing any guards"
+    }
+   ]
+  },
+  "6e4f5ffb-5f28-468b-a200-9df59e2ce560": {
+   "name": "Ghost: Time to die",
+   "children": [
+    {
+     "uuid": "820e7264-4a0a-4425-86d3-3409bc5bb756",
+     "name": "The quiet man",
+     "desc": "Enter the Hung Villa and confront Mr Hernandez without getting detected."
+    },
+    {
+     "uuid": "d832ed0c-c1e0-4d8b-9f07-fd13e4059ac1",
+     "name": "Panther Protocol",
+     "desc": "Reach the Emperor suite's roof without getting detected"
+    }
+   ]
+  },
+  "3a04d752-72db-405d-b3c6-bfed4bd6a0df": {
+   "name": "Assault: Time to die",
+   "children": [
+    {
+     "uuid": "08b83ab4-e91d-48e8-a41e-f3adedfb9108",
+     "name": "Lights out",
+     "desc": "Knock out the power grid/chain reaction and turn off all the lights"
+    },
+    {
+     "uuid": "2f579076-3351-49c1-9c95-ed6b2727d588",
+     "name": "Who's counting?",
+     "desc": "Quarry: Get more kills than Greenway during \"blitz\""
+    }
+   ]
+  },
+  "2281272b-ac30-4b35-8ea3-84a0aa98f1a0": {
+   "name": "Pacifist: Wave of the future",
+   "children": [
+    {
+     "uuid": "593d10de-1095-4d0a-b2b0-c5b06f3d19bb",
+     "name": "Pacifist protocols",
+     "desc": "Complete Gantries and Utility Floor without shooting anyone."
+    },
+    {
+     "uuid": "3dffb2c1-e695-41da-b008-bd8497f4be38",
+     "name": "Surrender",
+     "desc": "Turn yourself in to a guard in Operations."
+    }
+   ]
+  },
+  "9d67c8ae-1d12-470c-8122-db3fee315d6d": {
+   "name": "Ghost: Wave of the future",
+   "children": [
+    {
+     "uuid": "98185fdf-33eb-4e55-a9d4-9bfbb387fd76",
+     "name": "Hide and seek",
+     "desc": "Complete gatehouse trespassing without being detected."
+    },
+    {
+     "uuid": "415ebc68-d1ac-460d-9473-80ffc36634c1",
+     "name": "Stay stealthy",
+     "desc": "Eliminate 4 enemies without alerting anyone in the Red Alert."
+    }
+   ]
+  },
+  "a571f176-13f4-44e8-bbbf-c2c630aea374": {
+   "name": "Assault: Wave of the future",
+   "children": [
+    {
+     "uuid": "17e9076c-a7d9-4b5c-8615-7aad488dd476",
+     "name": "No time to reload",
+     "desc": "Kill enemies with 5 different firearms during a single combat encounter."
+    },
+    {
+     "uuid": "3071c4cd-5c33-45f3-8196-bff01e34c65e",
+     "name": "Server breakdown",
+     "desc": "Knock out an enemy with an exploding fire extinguisher."
+    }
+   ]
+  },
+  "3fccf326-556f-496f-b064-1f30b13ed764": {
+   "name": "Pacifist: For England",
+   "children": [
+    {
+     "uuid": "a121c156-618e-49fa-aa60-32cfb1e34e22",
+     "name": "Lock, stock and 1 trapped hostile",
+     "desc": "Lock one enemy in a holding cell"
+    },
+    {
+     "uuid": "c51e9d3c-6365-48bd-b31d-054a3f3a83b4",
+     "name": "Bring a fist to a gun fight",
+     "desc": "Don't use weapons during the elevator showdown"
+    }
+   ]
+  },
+  "4fb4326c-8cf1-4bd7-a199-7f0c86611730": {
+   "name": "Ghost: For England",
+   "children": [
+    {
+     "uuid": "539b6e7b-4a69-484e-80fd-f67419fde553",
+     "name": "Be Q-uiet",
+     "desc": "Make your way through Q-lab undetected"
+    },
+    {
+     "uuid": "7d2c94bb-f462-4dc9-95db-1506aa9323fd",
+     "name": "All smoke and mirrors",
+     "desc": "Release smoke from the rafters in the security offices"
+    }
+   ]
+  },
+  "18a64161-cc3d-468a-880f-ae7ddab4daa6": {
+   "name": "Assault: For England",
+   "children": [
+    {
+     "uuid": "523bffa4-b9ba-4fa1-b16f-e204b2b6636f",
+     "name": "Technomage",
+     "desc": "Kill 10 enemies with the Flash Mine in Q-lab"
+    },
+    {
+     "uuid": "ced0cc8f-b61f-4df5-a589-a3be4bb7d23f",
+     "name": "Untouchable",
+     "desc": "Defeat the snipers without taking any damage"
+    }
+   ]
+  },
+  "09097815-69db-4e4b-b647-6ec9707bc073": {
+   "name": "Arctic Skies",
+   "children": [
+    {
+     "uuid": "9d9471be-1d65-43b1-9b7a-be10a5c17cd4",
+     "name": "Arctic Skies tier 1",
+     "desc": "Complete tier 1 of the Arctic skies mission."
+    },
+    {
+     "uuid": "29633821-995c-4fd0-952e-d43ac9a1b709",
+     "name": "Arctic Skies tier 2",
+     "desc": "Complete tier 2 of the Arctic skies mission."
+    },
+    {
+     "uuid": "3db271e1-98de-4f42-b487-8a258866ebb0",
+     "name": "Arctic Skies tier 3",
+     "desc": "Complete tier 3 of the Arctic skies mission."
+    }
+   ]
+  },
+  "9c4657df-1ce0-4ba8-9d4c-3a9560300038": {
+   "name": "Arctic Skies mastery",
+   "children": [
+    {
+     "uuid": "9d9471be-1d65-43b1-9b7a-be10a5c17cd4",
+     "name": "Arctic Skies tier 1",
+     "desc": "Complete tier 1 of the Arctic skies mission."
+    },
+    {
+     "uuid": "29633821-995c-4fd0-952e-d43ac9a1b709",
+     "name": "Arctic Skies tier 2",
+     "desc": "Complete tier 2 of the Arctic skies mission."
+    },
+    {
+     "uuid": "3db271e1-98de-4f42-b487-8a258866ebb0",
+     "name": "Arctic Skies tier 3",
+     "desc": "Complete tier 3 of the Arctic skies mission."
+    },
+    {
+     "uuid": "fea045ca-b559-4db0-a0dc-a7837c63d079",
+     "name": "Gone with the wind",
+     "desc": "Push 2 enemies over the edge at the same time using a wind fan."
+    },
+    {
+     "uuid": "82f834c8-0a70-413e-8a65-8cf119b73444",
+     "name": "Say cheese",
+     "desc": "Knock 5 enemies over the edge using the shockwave camera gadget."
+    },
+    {
+     "uuid": "2891191d-ecf4-4487-9dfc-60827fc8fec2",
+     "name": "What a rush",
+     "desc": "Charge 5 enemies over the edge."
+    },
+    {
+     "uuid": "8279e394-3ae0-4fd5-8802-aa9fc15aebcf",
+     "name": "This is Antarctica",
+     "desc": "Kick 5 enemies off the edge."
+    },
+    {
+     "uuid": "6c345cc2-ee84-4241-a370-47bc93a27ec0",
+     "name": "No mistakes",
+     "desc": "Only eliminate enemies by throwing or pushing them off the edge."
+    }
+   ]
+  },
+  "8ce1262b-6040-4daa-bd19-a336bac20632": {
+   "name": "Arctic Skies mastery",
+   "children": [
+    {
+     "uuid": "5119cd9c-370e-43cd-9ae9-cdcb3bc1197b",
+     "name": null,
+     "desc": null
+    },
+    {
+     "uuid": "4e8d4b53-47e9-4b24-9417-4f7f553cbcb0",
+     "name": null,
+     "desc": null
+    },
+    {
+     "uuid": "bbbd36f5-194c-40e4-9c10-2583b95cc79f",
+     "name": null,
+     "desc": null
+    },
+    {
+     "uuid": "2c38a480-0e6b-4786-9b95-574b474c4b2d",
+     "name": null,
+     "desc": null
+    },
+    {
+     "uuid": "4c564f61-66cc-4430-a3d8-14d647febc41",
+     "name": null,
+     "desc": null
+    },
+    {
+     "uuid": "fb3a1944-824f-4c12-9873-6b8d09d948e9",
+     "name": null,
+     "desc": null
+    }
+   ]
+  },
+  "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f": {
+   "name": "Pacifist",
+   "children": [
+    {
+     "uuid": "f1f12d80-e7e3-4bb6-8dc4-f1d100b2b024",
+     "name": "Pacifist: \"Uninvited\"",
+     "desc": "Complete \"A quiet night\", \"Just passing through\" and \"Workplace agreement\""
+    },
+    {
+     "uuid": "a1425135-5da7-46d8-aeea-422bf145f785",
+     "name": "Pacifist: All the time in the world",
+     "desc": "Complete \"Uninterrupted Service\" and \"Peace Studies\""
+    },
+    {
+     "uuid": "004f1a40-00e3-483c-ac6e-e54f063cf6ed",
+     "name": "Pacifist: The past never dies",
+     "desc": "Complete \"Gentle steel\", \"Quiet frequency\" and \"Silent line\"."
+    },
+    {
+     "uuid": "6e83a223-4e70-4755-846f-d79f7109361d",
+     "name": "Pacifist: \"Against the odds\"",
+     "desc": "Go through the Central Camp only taking down two soldiers."
+    },
+    {
+     "uuid": "131c2073-b0b7-4938-9176-c548bb989f1f",
+     "name": "Pacifist: \"A new home\"",
+     "desc": "Complete \"Something to prove\" and \"White Flag\""
+    },
+    {
+     "uuid": "b98b0bd9-4432-4659-91a9-7199bfb3c33f",
+     "name": "Pacifist: Knightfall",
+     "desc": "Complete \"Discretion advised\" and \"IT specialist\""
+    },
+    {
+     "uuid": "b2f7942f-e803-4729-a9fb-a618bbc68b3b",
+     "name": "Pacifist: Time to die",
+     "desc": "Complete \"Spectre protocol\" and \"Unlicenced to kill\""
+    },
+    {
+     "uuid": "2281272b-ac30-4b35-8ea3-84a0aa98f1a0",
+     "name": "Pacifist: Wave of the future",
+     "desc": "Complete \"Pacifist Protocols\" and \"Surrender\"."
+    },
+    {
+     "uuid": "3fccf326-556f-496f-b064-1f30b13ed764",
+     "name": "Pacifist: For England",
+     "desc": "Complete \"Lock, stock and 1 trapped hostile\" and \"Bring a fist to a gun fight\""
+    }
+   ]
+  },
+  "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d": {
+   "name": "Ghost",
+   "children": [
+    {
+     "uuid": "e892900c-094b-4bde-9c5e-445ebcbdadb7",
+     "name": "Ghost: \"Uninvited\"",
+     "desc": "Complete \"Missed me!\", \"Top notch security\" and \"Fast track\""
+    },
+    {
+     "uuid": "1f9802bd-17d9-46b9-99db-52c8371b447d",
+     "name": "Ghost: All the time in the world",
+     "desc": "Complete \"Squeaky clean\" and \"Silent Study\""
+    },
+    {
+     "uuid": "46dfbeb7-5afe-4652-840d-331a724d3d6a",
+     "name": "Ghost: The past never dies",
+     "desc": "Complete \"Laser show\" \"Silence is violence\" \"The big bang\""
+    },
+    {
+     "uuid": "e0bbd6c5-8128-422f-84b3-a108d864cc45",
+     "name": "Ghost: \"Against the odds\"",
+     "desc": "Go through the Central Camp without getting spotted."
+    },
+    {
+     "uuid": "2e155658-25c4-41bc-a0e0-7f900e453726",
+     "name": "Ghost: \"A new home\"",
+     "desc": "Complete \"Cressida's way\" and \"Always do the unexpected.\""
+    },
+    {
+     "uuid": "603a8ec2-d346-4414-8f99-1989fe32608c",
+     "name": "Ghost: Knightfall",
+     "desc": "Complete \"Hand of god\" and \"Underdressed\"."
+    },
+    {
+     "uuid": "6e4f5ffb-5f28-468b-a200-9df59e2ce560",
+     "name": "Ghost: Time to die",
+     "desc": "Complete \"The quiet man\" and \"Panther protocol\""
+    },
+    {
+     "uuid": "9d67c8ae-1d12-470c-8122-db3fee315d6d",
+     "name": "Ghost: Wave of the future",
+     "desc": "Complete \"Hide and seek\" and \"Stay stealthy\""
+    },
+    {
+     "uuid": "4fb4326c-8cf1-4bd7-a199-7f0c86611730",
+     "name": "Ghost: For England",
+     "desc": "Complete \"Be Q-uiet\" and \"All smoke and mirrors\""
+    }
+   ]
+  },
+  "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b": {
+   "name": "Assault",
+   "children": [
+    {
+     "uuid": "69650d45-e17c-4901-8e5d-027a991f6e25",
+     "name": "Assault: \"Uninvited\"",
+     "desc": "Complete \"Green fingers\", \"All clear\", \"Health & safety\" and \"Art attack\""
+    },
+    {
+     "uuid": "2d12bae3-40dd-4dd1-8231-1060a2445f7b",
+     "name": "Assault: All the time in the world",
+     "desc": "Complete \"Getting Dirty\" and \"Indiscrete\""
+    },
+    {
+     "uuid": "b18ba21a-8a52-4aa6-9dfb-2383e9ad4189",
+     "name": "Assault: The past never dies",
+     "desc": "Complete \"Fall guy\" \"Catch!\" \"Make them count\""
+    },
+    {
+     "uuid": "dcf8c327-5b8f-416c-99f1-05505a50adef",
+     "name": "Assault: \"Against the odds\"",
+     "desc": "Fight 4 soldiers without alerting the camp"
+    },
+    {
+     "uuid": "63c6a197-7f9b-40d5-82cc-398f76e753da",
+     "name": "Assault: \"A new home\"",
+     "desc": "Complete \"Monroe's way\" and \"Party Crasher\""
+    },
+    {
+     "uuid": "1c3d5a1d-7092-4c46-8c4d-2438d8942a66",
+     "name": "Assault: Knightfall",
+     "desc": "Complete \"Server Crash\", \"All the time in the world\" and \"Makeover\""
+    },
+    {
+     "uuid": "3a04d752-72db-405d-b3c6-bfed4bd6a0df",
+     "name": "Assault: Time to die",
+     "desc": "Complete \"Lights out\" and \"Who's counting?\""
+    },
+    {
+     "uuid": "a571f176-13f4-44e8-bbbf-c2c630aea374",
+     "name": "Assault: Wave of the future",
+     "desc": "Complete \"No time to reload\" and \"Server breakdown\"."
+    },
+    {
+     "uuid": "18a64161-cc3d-468a-880f-ae7ddab4daa6",
+     "name": "Assault: For England",
+     "desc": "Complete \"Technomage\" and \"Untouchable\""
+    }
+   ]
+  }
+ }
+}
