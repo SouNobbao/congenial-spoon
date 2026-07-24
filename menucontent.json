@@ -45,7 +45,9 @@
         "394917c6-0b87-42bc-a9ef-649e85b1017b",
         "4c269040-27f4-4f22-b733-5cdafc051bce",
         "29c8470e-e865-475d-ac00-446bda1d40af",
-        "ce75d821-6c24-4006-87b3-0aa21a68d689"
+        "ce75d821-6c24-4006-87b3-0aa21a68d689",
+        "4c12c5a1-4d26-4a00-b21a-b5c82d4f92cd",
+        "8a1acef7-8157-4d2c-bc65-04c6b145e4c8"
       ]
     },
     {
@@ -2158,6 +2160,316 @@
         "Objectives": []
       },
       "Group": null
+    },
+    {
+      "id": "e0d50ec3-4924-4fb4-8696-c744aa87d484",
+      "Gameplay": {
+        "Checkpoint": "PepperCricket_Escalation_Tier1",
+        "Tags": [
+          "online_global",
+          "peppercricket"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 100,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Cricket_Tier01_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_cricket_tier01.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_cricket_tier01.jpg",
+        "Description": "Pepper_Cricket_Tier01_Desc",
+        "Location": "Pepper_Cricket_Location_Name",
+        "Goal": "",
+        "Objectives": [
+          "Pepper_Cricket_Goal_Name"
+        ],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "4c12c5a1-4d26-4a00-b21a-b5c82d4f92cd",
+        "Children": null
+      }
+    },
+    {
+      "id": "e3632353-6dba-44f9-92f7-9517ab57869f",
+      "Gameplay": {
+        "Checkpoint": "PepperCricket_Escalation_Tier2",
+        "Tags": [
+          "online_global",
+          "peppercricket"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 200,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Cricket_Tier02_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_cricket_tier02.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_cricket_tier02.jpg",
+        "Description": "Pepper_Cricket_Tier02_Desc",
+        "Location": "Pepper_Cricket_Location_Name",
+        "Goal": "",
+        "Objectives": [
+          "Pepper_Cricket_Goal_Name"
+        ],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "4c12c5a1-4d26-4a00-b21a-b5c82d4f92cd",
+        "Children": null
+      }
+    },
+    {
+      "id": "67d3a748-0458-4eb3-bbad-80a10c5fddd8",
+      "Gameplay": {
+        "Checkpoint": "PepperCricket_Escalation_Tier3",
+        "Tags": [
+          "online_global",
+          "peppercricket"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 300,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Cricket_Tier03_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_cricket_tier03.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_cricket_tier03.jpg",
+        "Description": "Pepper_Cricket_Tier03_Desc",
+        "Location": "Pepper_Cricket_Location_Name",
+        "Goal": "",
+        "Objectives": [
+          "Pepper_Cricket_Goal_Name"
+        ],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "4c12c5a1-4d26-4a00-b21a-b5c82d4f92cd",
+        "Children": null
+      }
+    },
+    {
+      "id": "4c12c5a1-4d26-4a00-b21a-b5c82d4f92cd",
+      "Gameplay": {
+        "Checkpoint": "PepperCricket_Escalation",
+        "Tags": [
+          "online_global",
+          "peppercricket"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 0,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Cricket_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_cricket.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_cricket.jpg",
+        "Description": "Pepper_Cricket_Desc",
+        "Location": "Pepper_Cricket_Location_Name",
+        "Goal": "Pepper_Cricket_Goal_Name",
+        "Objectives": [],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": null,
+        "Children": [
+          "e0d50ec3-4924-4fb4-8696-c744aa87d484",
+          "e3632353-6dba-44f9-92f7-9517ab57869f",
+          "67d3a748-0458-4eb3-bbad-80a10c5fddd8"
+        ]
+      }
+    },
+    {
+      "id": "1f794ee9-e46d-45b0-9f90-d4b65670c084",
+      "Gameplay": {
+        "Checkpoint": "Pepper_Pillbug_Escalation_Tier1",
+        "Tags": [
+          "online_global",
+          "pepper_pillbug"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 100,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Pillbug_Tier01_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_tier01.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_tier01.jpg",
+        "Description": "Pepper_Pillbug_Tier01_Desc",
+        "Location": "Pepper_Pillbug_Location_Name",
+        "Goal": "Pepper_Pillbug_Goal_Name",
+        "Objectives": [],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "8a1acef7-8157-4d2c-bc65-04c6b145e4c8",
+        "Children": null
+      }
+    },
+    {
+      "id": "1b843de3-3d62-4ff1-b016-18930e4fb983",
+      "Gameplay": {
+        "Checkpoint": "Pepper_Pillbug_Escalation_Tier2",
+        "Tags": [
+          "online_global",
+          "pepper_pillbug"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 200,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Pillbug_Tier02_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_tier02.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_tier02.jpg",
+        "Description": "Pepper_Pillbug_Tier02_Desc",
+        "Location": "Pepper_Pillbug_Location_Name",
+        "Goal": "Pepper_Pillbug_Goal_Name",
+        "Objectives": [],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "8a1acef7-8157-4d2c-bc65-04c6b145e4c8",
+        "Children": null
+      }
+    },
+    {
+      "id": "cba19b9b-b422-481c-a116-a61c16ae4e97",
+      "Gameplay": {
+        "Checkpoint": "Pepper_Pillbug_Escalation_Tier3",
+        "Tags": [
+          "online_global",
+          "pepper_pillbug"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 300,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Pillbug_Tier03_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_tier03.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_tier03.jpg",
+        "Description": "Pepper_Pillbug_Tier03_Desc",
+        "Location": "Pepper_Pillbug_Location_Name",
+        "Goal": "Pepper_Pillbug_Goal_Name",
+        "Objectives": [],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": "8a1acef7-8157-4d2c-bc65-04c6b145e4c8",
+        "Children": null
+      }
+    },
+    {
+      "id": "8a1acef7-8157-4d2c-bc65-04c6b145e4c8",
+      "Gameplay": {
+        "Checkpoint": "PepperPillbug_Escalation",
+        "Tags": [
+          "online_global",
+          "pepper_pillbug"
+        ],
+        "Type": 1,
+        "Rewards": {
+          "Xp": 0,
+          "Intel": 0,
+          "Unlockables": []
+        },
+        "RequirementTags": "",
+        "RequiredCheckpoint": "Sunflower_Cine_Start",
+        "Entitlements": []
+      },
+      "Ui": {
+        "Title": "Pepper_Pillbug_Name",
+        "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug.jpg",
+        "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug.jpg",
+        "Description": "Pepper_Pillbug_Desc",
+        "Location": "Pepper_Pillbug_Location_Name",
+        "Goal": "Pepper_Pillbug_Goal_Name",
+        "Objectives": [],
+        "Requirements": [],
+        "ShortDescription": ""
+      },
+      "Ugc": {
+        "Objectives": []
+      },
+      "Group": {
+        "Parent": null,
+        "Children": [
+          "1f794ee9-e46d-45b0-9f90-d4b65670c084",
+          "1b843de3-3d62-4ff1-b016-18930e4fb983",
+          "cba19b9b-b422-481c-a116-a61c16ae4e97"
+        ]
+      }
     }
   ],
   "MissionProgressions": [],

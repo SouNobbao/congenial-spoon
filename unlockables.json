@@ -2550,5 +2550,83 @@
       "State": 1
     },
     "Unlocks": []
+  },
+  {
+    "Title": "UI_WeaponNames_HeavyPistol_50cal_A",
+    "Description": "UI_WeaponNames_Desc_HeavyPistol_50cal_A",
+    "Image": "images/TacticalSims/weapons/pngs/HeavyPistol_50cal_A.png",
+    "Comment": "",
+    "HighResImage": "",
+    "FeaturedImage": "",
+    "IsFeatured": false,
+    "IsNew": false,
+    "RequiredCheckpoint": "",
+    "IntelShop": true,
+    "UnlockableState": {
+      "Id": "f86489f7-6601-4199-bff1-1d35e97ffa9c",
+      "State": 0
+    },
+    "RequiredLevel": 10,
+    "LevelOk": false,
+    "PriceCurrency": "Intel",
+    "PriceValue": 3000,
+    "PriceOk": true,
+    "GrantedItems": [],
+    "CanBuy": false,
+    "Unlocks": [],
+    "Type": "weapon",
+    "Category": "pistol"
+  },
+  {
+    "Title": "UI_WeaponNames_MachinePistol_HighRecoil_A",
+    "Description": "UI_WeaponNames_Desc_MachinePistol_HighRecoil_A",
+    "Image": "images/TacticalSims/weapons/pngs/MachinePistol_HighRecoil_A.png",
+    "Comment": "",
+    "HighResImage": "",
+    "FeaturedImage": "",
+    "IsFeatured": false,
+    "IsNew": false,
+    "RequiredCheckpoint": "",
+    "IntelShop": true,
+    "UnlockableState": {
+      "Id": "fd4f89b3-4b4c-4048-85d1-3d565c2a29db",
+      "State": 0
+    },
+    "RequiredLevel": 12,
+    "LevelOk": false,
+    "PriceCurrency": "Intel",
+    "PriceValue": 3000,
+    "PriceOk": true,
+    "GrantedItems": [],
+    "CanBuy": false,
+    "Unlocks": [],
+    "Type": "weapon",
+    "Category": "pistol"
+  },
+  {
+    "Title": "UI_WeaponNames_SMG_Silenced_A",
+    "Description": "UI_WeaponNames_Desc_SMG_Silenced_A",
+    "Image": "images/TacticalSims/weapons/pngs/SMG_Silenced_A.png",
+    "Comment": "",
+    "HighResImage": "",
+    "FeaturedImage": "",
+    "IsFeatured": false,
+    "IsNew": false,
+    "RequiredCheckpoint": "",
+    "IntelShop": true,
+    "UnlockableState": {
+      "Id": "73827628-c63d-4152-a4ad-a089b2218b38",
+      "State": 0
+    },
+    "RequiredLevel": 16,
+    "LevelOk": false,
+    "PriceCurrency": "Intel",
+    "PriceValue": 3000,
+    "PriceOk": true,
+    "GrantedItems": [],
+    "CanBuy": false,
+    "Unlocks": [],
+    "Type": "weapon",
+    "Category": "smg"
   }
 ]

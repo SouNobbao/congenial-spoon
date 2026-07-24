@@ -10351,5 +10351,101 @@
     "KntState": {
       "NewlyCompleted": false
     }
+  },
+  {
+    "Definition": {
+      "Id": "e082fefb-ebfe-4295-b1ce-d539bd0313e4",
+      "Name": "PEPPER_PILLBUG_AHEADOFTHECURVE_TITLE",
+      "Description": "PEPPER_PILLBUG_AHEADOFTHECURVE_DESC"
+    },
+    "State": {
+      "Id": "e082fefb-ebfe-4295-b1ce-d539bd0313e4",
+      "CompletionState": 1,
+      "ProgressCurrent": 0,
+      "ProgressMax": 1
+    },
+    "KntDefinition": {
+      "Id": "e082fefb-ebfe-4295-b1ce-d539bd0313e4",
+      "Tags": [
+        "pepper_pillbug",
+        "hard_xp_intel"
+      ],
+      "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_aheadofthecurve.jpg",
+      "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_aheadofthecurve.jpg",
+      "Rewards": {
+        "Xp": 1000,
+        "Intel": 2000,
+        "Unlockables": []
+      },
+      "IsSpoiler": false,
+      "SpoilerRequiredCheckpoint": ""
+    },
+    "KntState": {
+      "NewlyCompleted": false
+    }
+  },
+  {
+    "Definition": {
+      "Id": "dcc7a59c-b66d-4c97-b5f7-0589473c6404",
+      "Name": "PEPPER_PILLBUG_WAYFOURTH_TITLE",
+      "Description": "PEPPER_PILLBUG_WAYFOURTH_DESC"
+    },
+    "State": {
+      "Id": "dcc7a59c-b66d-4c97-b5f7-0589473c6404",
+      "CompletionState": 1,
+      "ProgressCurrent": 0,
+      "ProgressMax": 1
+    },
+    "KntDefinition": {
+      "Id": "dcc7a59c-b66d-4c97-b5f7-0589473c6404",
+      "Tags": [
+        "pepper_pillbug",
+        "easy_xp_intel"
+      ],
+      "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_wayfourth.jpg",
+      "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_wayfourth.jpg",
+      "Rewards": {
+        "Xp": 500,
+        "Intel": 1000,
+        "Unlockables": []
+      },
+      "IsSpoiler": false,
+      "SpoilerRequiredCheckpoint": ""
+    },
+    "KntState": {
+      "NewlyCompleted": false
+    }
+  },
+  {
+    "Definition": {
+      "Id": "fc4fdde0-0c8b-4f91-b6c5-d4de78d8a312",
+      "Name": "PEPPER_PILLBUG_FIRESTARTER_TITLE",
+      "Description": "PEPPER_PILLBUG_FIRESTARTER_DESC"
+    },
+    "State": {
+      "Id": "fc4fdde0-0c8b-4f91-b6c5-d4de78d8a312",
+      "CompletionState": 1,
+      "ProgressCurrent": 0,
+      "ProgressMax": 1
+    },
+    "KntDefinition": {
+      "Id": "fc4fdde0-0c8b-4f91-b6c5-d4de78d8a312",
+      "Tags": [
+        "pepper_pillbug",
+        "easy_xp_intel"
+      ],
+      "Image": "images/tacticalsims/escalations/pepper/s_pepper_pillbug_challenge_firestarter.jpg",
+      "HighResImage": "images/tacticalsims/escalations/pepper/pepper_pillbug_challenge_firestarter.jpg",
+      "Rewards": {
+        "Xp": 500,
+        "Intel": 1000,
+        "Unlockables": []
+      },
+      "IsSpoiler": false,
+      "SpoilerRequiredCheckpoint": ""
+    },
+    "KntState": {
+      "NewlyCompleted": false
+    }
   }
 ]
