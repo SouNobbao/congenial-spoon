@@ -255,6 +255,134 @@
     }
    ]
   },
+  "006e8432-2aee-47d7-8795-dfd6da58ed4f": {
+   "name": "Completionist: \"A new home\"",
+   "desc": "Complete all challenges in \"A new home\" to unlock the Malta training outfit for TacSim. This group's Tags[0] is the generic category_progression (the only group in the game whose story tag is not first), so the shared-tag heuristic finds only 3 of the 11 members and it never auto-completes without this explicit linkage. The 11 children are the other members of the story_lotus_advanced_training group (matches ProgressMax 11).",
+   "children": [
+    {
+     "uuid": "131c2073-b0b7-4938-9176-c548bb989f1f",
+     "name": "Pacifist: \"A new home\""
+    },
+    {
+     "uuid": "2e155658-25c4-41bc-a0e0-7f900e453726",
+     "name": "Ghost: \"A new home\""
+    },
+    {
+     "uuid": "63c6a197-7f9b-40d5-82cc-398f76e753da",
+     "name": "Assault: \"A new home\""
+    },
+    {
+     "uuid": "b4e15807-069c-4583-8257-185ce1d8b505",
+     "name": "Something to prove"
+    },
+    {
+     "uuid": "54737f64-89ba-467a-8144-520df8b7eb42",
+     "name": "White flag"
+    },
+    {
+     "uuid": "29be66d8-23fd-4b70-aad9-4cb4d757b4d0",
+     "name": "Cressida's way"
+    },
+    {
+     "uuid": "4d67fc99-9f70-41e6-b3bf-0ad79a0f4f1d",
+     "name": "Always do the unexpected"
+    },
+    {
+     "uuid": "72183de9-ff68-4dc7-9021-57273ad301b0",
+     "name": "Monroe's way"
+    },
+    {
+     "uuid": "8726e0ac-22c9-41ad-bf15-dd22525f38aa",
+     "name": "Party Crasher"
+    },
+    {
+     "uuid": "282a1068-11c1-437a-aee0-e6231ec3c949",
+     "name": "Mr Mnemonic / Spinning a Yarn (exploration leaf)"
+    },
+    {
+     "uuid": "40211eb7-7f35-4f38-b4f5-d026900735e0",
+     "name": "Mr Mnemonic / Spinning a Yarn (exploration leaf)"
+    }
+   ]
+  },
+  "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d": {
+   "name": "Completionist (main story)",
+   "desc": "Complete all challenges in the main story to unlock the agent outfit for TacSim. Its ProgressMax (19) is left untouched in challenges.json so the game still displays /19, but this dataset only contains 18 of those member challenges (9 per-mission completionists + 3 grand playstyle metas + 6 escalation 'graduated' metas). A linked meta auto-completes once all of its mapped children are done, so listing these 18 unlocks the outfit at 18-of-19. Without this explicit linkage its story_global heuristic tag groups it with unrelated lifetime takedown counters and it never progresses.",
+   "children": [
+    {
+     "uuid": "0ec4b652-c1b2-4c7e-b8b3-b3c2d538dcec",
+     "name": "Completionist: Pepper"
+    },
+    {
+     "uuid": "73972fd3-8d5b-40c2-96e6-3ff33a334677",
+     "name": "Completionist: Rose (All the time in the world)"
+    },
+    {
+     "uuid": "7512aad9-b968-42cc-98b3-104d4097b6aa",
+     "name": "Completionist: Dahlia"
+    },
+    {
+     "uuid": "4132067e-e993-4a50-9f11-3535afa5cbfd",
+     "name": "Completionist: Clover (Against the odds)"
+    },
+    {
+     "uuid": "006e8432-2aee-47d7-8795-dfd6da58ed4f",
+     "name": "Completionist: A new home (Lotus)"
+    },
+    {
+     "uuid": "68fc12fd-580c-4bf4-adee-cc750486718a",
+     "name": "Completionist: Bluebell"
+    },
+    {
+     "uuid": "6f5ecf57-ec8f-45d8-912b-d49937f53328",
+     "name": "Completionist: Magnolia"
+    },
+    {
+     "uuid": "e75ffaf6-8518-4e9d-8629-d4e7b72876c1",
+     "name": "Completionist: Orchid"
+    },
+    {
+     "uuid": "c6e704bf-1e5e-43f1-a042-1e53dd50dc22",
+     "name": "Completionist: Ivy"
+    },
+    {
+     "uuid": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+     "name": "Pacifist (all)"
+    },
+    {
+     "uuid": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+     "name": "Ghost (all)"
+    },
+    {
+     "uuid": "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+     "name": "Assault (all)"
+    },
+    {
+     "uuid": "81391326-6ec7-482c-b691-4a711e29fb11",
+     "name": "Escalation graduated: Pepper Cricket"
+    },
+    {
+     "uuid": "38e53891-3d34-425c-98f6-f8e0f1abce49",
+     "name": "Escalation graduated: Pepper Pillbug"
+    },
+    {
+     "uuid": "809abdc6-dcfb-4ec5-84f1-697607927b24",
+     "name": "Escalation graduated: Bluebell Butterfly"
+    },
+    {
+     "uuid": "19e90a5e-1fee-4239-8d5a-0668d9b0c5d5",
+     "name": "Escalation graduated: Clover Midge"
+    },
+    {
+     "uuid": "0b9111cd-36e4-4c9b-a6a8-570947219411",
+     "name": "Escalation graduated: Lotus Bee"
+    },
+    {
+     "uuid": "3303d5aa-176d-43bf-8a8f-9134c1ac5f0d",
+     "name": "Escalation graduated: Dahlia Ringleg"
+    }
+   ]
+  },
   "b98b0bd9-4432-4659-91a9-7199bfb3c33f": {
    "name": "Pacifist: Knightfall",
    "children": [
